@@ -1,32 +1,26 @@
 # JSQuiz
 
-JavaScript Test
+JavaScript Test.  Clone this REPO and provide your answers.
 
-## Tell me about strings in JavaScript
+### Tell me about strings in JavaScript
+> your answer
 
-## People say that almost everything in JavaScript is an object. What things are not objects?
+### People say that almost everything in JavaScript is an object. What things are not objects?
+> your answer
 
-## How can errors be handled in JavaScript?
+### How can errors be handled in JavaScript?
+> your answer
 
-## Code an example of a for in loop?
+### Why use strict mode?
+> your answer
 
-## In this code what is the resulting value of `a`?
-```
-    var a=1;
-    delete a;
-```    
+### Code an example of a for in loop?
+> your answer
 
-## In this code what is the resulting value of 'obj.x'?
-```
-	var obj = {x: 1};
-	delete obj.x;
-```
+### Code an example of an object
+> your answer
 
-## Code an example of an object
-
-## Why use strict mode?
-
-## Sort the following array by value:
+### Sort the following array by value:
 ```
 var ar = [
     {text:"one", value:1},
@@ -36,14 +30,31 @@ var ar = [
     {text:"six", value:6}
 ];
 ```
+> your answer
 
-## Write a program which given a list of name returns the total number of unique names.
-### For example: ['bob','jill','bill','bob','sue','jill'], should return 4.
+### In this code what is the resulting value of `a`?
+```
+    var a=1;
+    delete a;
+```    
+> your answer
 
-## Write an example of a self executing JavaScript module.
-### Also known as an iife (Immediately-invoked function expression)
+### In this code what is the resulting value of 'obj.x'?
+```
+	var obj = {x: 1};
+	delete obj.x;
+```
+> your answer
 
-## What does the following code do?
+### Write a program which given a list of name returns the total number of unique names.
+#### For example: ['bob','jill','bill','bob','sue','jill'], should return 4.
+> your answer
+
+### Write an example of a self executing JavaScript module.
+#### Also known as an iife (Immediately-invoked function expression)
+> your answer
+
+### What does the following code do?
 
 ```
 function(array, obj, iterator, context) {
@@ -57,10 +68,12 @@ function(array, obj, iterator, context) {
     return low;
   };
 ```
+> your answer
 
 ### In the example above what is the role of: >>> 1
+> your answer
 
-## What value will be displayed in the alert?
+#### What value will be displayed in the alert?
 
 ```
 function() {
@@ -70,8 +83,9 @@ function() {
     alert(a);
 }
 ```
+> your answer
 
-## What will alert display in this example?
+### What will alert display in this example?
 
 ```
 function first() {
@@ -85,9 +99,9 @@ function second() {
 first();
 second();
 ```
+> your answer
 
-
-## What are the three numbers displayed using the code below?
+### What are the three numbers displayed using the code below?
 
 ```
 var a = 6;
@@ -103,8 +117,9 @@ function test() {
 test();
 ​alert(a);​
 ```
+> your answer
 
-## What is the output below
+### What is the output below
 ```
 function getFunc() {
     var a = 7;
@@ -115,3 +130,4 @@ function getFunc() {
 var f = getFunc();
 f(5);
 ```
+> your answer
