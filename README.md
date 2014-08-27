@@ -2,25 +2,25 @@
 
 JavaScript Test.  Clone this REPO and provide your answers.
 
-### Tell me about strings in JavaScript
+### 1. Tell me about strings in JavaScript
 > your answer
 
-### People say that almost everything in JavaScript is an object. What things are not objects?
+### 2. People say that almost everything in JavaScript is an object. What things are not objects?
 > your answer
 
-### How can errors be handled in JavaScript?
+### 3. How can errors be handled in JavaScript?
 > your answer
 
-### Why use strict mode?
+### 4. Why use strict mode?
 > your answer
 
-### Code an example of a for in loop?
+### 5. Code an example of a for in loop?
 > your answer
 
-### Code an example of an object
+### 6. Code an example of an object
 > your answer
 
-### Sort the following array by value:
+### 7. Sort the following array by value:
 ```
 var ar = [
     {text:"one", value:1},
@@ -32,29 +32,29 @@ var ar = [
 ```
 > your answer
 
-### In this code what is the resulting value of `a`?
+### 8. In this code what is the resulting value of `a`?
 ```
     var a=1;
     delete a;
 ```    
 > your answer
 
-### In this code what is the resulting value of 'obj.x'?
+### 9. In this code what is the resulting value of 'obj.x'?
 ```
 	var obj = {x: 1};
 	delete obj.x;
 ```
 > your answer
 
-### Write a program which given a list of name returns the total number of unique names.
+### 10. Write a program which given a list of name returns the total number of unique names.
 #### For example: ['bob','jill','bill','bob','sue','jill'], should return 4.
 > your answer
 
-### Write an example of a self executing JavaScript module.
+### 11. Write an example of a self executing JavaScript module.
 #### Also known as an iife (Immediately-invoked function expression)
 > your answer
 
-### What does the following code do?
+### 12. What does the following code do?
 
 ```
 function(array, obj, iterator, context) {
@@ -70,10 +70,10 @@ function(array, obj, iterator, context) {
 ```
 > your answer
 
-### In the example above what is the role of: >>> 1
+### 13. In the example above what is the role of: >>> 1
 > your answer
 
-#### What value will be displayed in the alert?
+#### 14. What value will be displayed in the alert?
 
 ```
 function() {
@@ -85,7 +85,7 @@ function() {
 ```
 > your answer
 
-### What will alert display in this example?
+### 15. What will alert display in this example?
 
 ```
 function first() {
@@ -101,7 +101,7 @@ second();
 ```
 > your answer
 
-### What are the three numbers displayed using the code below?
+### 16. What are the three numbers displayed using the code below?
 
 ```
 var a = 6;
@@ -119,7 +119,7 @@ test();
 ```
 > your answer
 
-### What is the output below
+### 17. What is the output below
 ```
 function getFunc() {
     var a = 7;
