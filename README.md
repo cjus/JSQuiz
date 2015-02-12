@@ -190,3 +190,20 @@ foo();
 list.length = 4
 ```
 > your answer
+
+### 22. How is JavaScript different from other programming languages?
+
+> your answer
+
+### 23. Would you say that JavaScript is an easy language to learn or a hard one? Why?
+
+> your answer
+
+### 24. What feature of another language would you like to see in JavaScript? How would you go about adding it to JavaScript?
+
+> your answer
+
+### 25. What would you say is the single most important feature of JavaScript and why?
+
+> your answer
+
