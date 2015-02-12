@@ -191,19 +191,23 @@ list.length = 4
 ```
 > your answer
 
-### 22. How is JavaScript different from other programming languages?
+### 22. How does variable scoping work in JavaScript?  How is it different from other languages?
 
 > your answer
 
-### 23. Would you say that JavaScript is an easy language to learn or a hard one? Why?
+### 23. How is JavaScript different from other programming languages?
 
 > your answer
 
-### 24. What feature of another language would you like to see in JavaScript? How would you go about adding it to JavaScript?
+### 24. Would you say that JavaScript is an easy language to learn or a hard one? Why?
 
 > your answer
 
-### 25. What would you say is the single most important feature of JavaScript and why?
+### 25. What feature of another language would you like to see in JavaScript? How would you go about adding it to JavaScript?
+
+> your answer
+
+### 26. What would you say is the single most important feature of JavaScript and why?
 
 > your answer
 
