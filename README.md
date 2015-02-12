@@ -211,3 +211,8 @@ list.length = 4
 
 > your answer
 
+### 27. Provide an example of a misunderstood feature of JavaScript.
+
+> your answer
+
+
