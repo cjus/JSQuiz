@@ -131,3 +131,40 @@ var f = getFunc();
 f(5);
 ```
 > your answer
+
+### 18. What does alert return below?
+
+```
+var foo = new Object();
+var bar = new Object();
+var map = new Object();
+
+map[foo] = "foo";
+map[bar] = "bar";
+
+alert(map[foo]);  // what will this display??
+```
+
+> your answer
+
+
+### 19. Consider what each block below returns via alert() and explain why
+
+```
+function foo() { return 1; }
+
+alert(foo());   // what will this alert?
+
+function foo() { return 2; }
+```
+
+```
+var foo = function() { return 1; }
+
+alert(foo());   // what will this alert?
+
+foo = function() { return 2; }
+```
+
+> your answer
+
