@@ -185,3 +185,8 @@ foo();
 
 > your answer
 
+### 21. What happens when you set the length of an array? 
+```
+list.length = 4
+```
+> your answer
