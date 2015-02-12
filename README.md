@@ -168,3 +168,18 @@ foo = function() { return 2; }
 
 > your answer
 
+### 20. What's wrong with this code?
+
+```
+function foo()  {
+   function bar(a) {
+        i = 6;
+   }
+   for (var i=0; i<10; i += 1) {
+       bar(i*2);
+   }
+}
+
+foo();
+```
+
